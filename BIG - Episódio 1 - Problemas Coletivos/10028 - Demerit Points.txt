@@ -1,0 +1,4 @@
+Professor,
+
+o codigo funciona pra uma entrada.
+pra mais de uma entrada ele lê, mas acaba entrando em loop no segundo caso de teste.
